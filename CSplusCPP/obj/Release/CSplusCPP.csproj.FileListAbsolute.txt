@@ -1,0 +1,6 @@
+D:\Projects\TestPup\CSplusCPP\bin\Release\CSplusCPP.exe.config
+D:\Projects\TestPup\CSplusCPP\bin\Release\CSplusCPP.exe
+D:\Projects\TestPup\CSplusCPP\bin\Release\CSplusCPP.pdb
+D:\Projects\TestPup\CSplusCPP\obj\Release\CSplusCPP.csproj.CoreCompileInputs.cache
+D:\Projects\TestPup\CSplusCPP\obj\Release\CSplusCPP.exe
+D:\Projects\TestPup\CSplusCPP\obj\Release\CSplusCPP.pdb
